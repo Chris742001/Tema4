@@ -73,3 +73,4 @@ plt.xlabel(r'$t$')
 plt.ylabel(r'$R_{XX}(\tau)$')
 plt.legend() # Se imprime la leyenda de la gráfica.
 plt.show()   # Muestra la gráfica
+#hello bby
